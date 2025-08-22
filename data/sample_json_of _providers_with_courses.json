@@ -1,0 +1,198 @@
+{
+    "9bca8f42-92c1-251c-c512-1f9da7815cde": {
+        "id": "9bca8f42-92c1-251c-c512-1f9da7815cde",
+        "name": "New City College (incorporating Havering College)",
+        "institutionCode": "H14",
+        "providerSort": "",
+        "address": {
+            "line4": "Hornchurch",
+            "country": {
+                "mappedCaption": "England"
+            }
+        },
+        "websiteUrl": "https://www.ncclondon.ac.uk/higher-education",
+        "logoUrl": "https://d1l6hqpjksdq9d.cloudfront.net/Prod/9bca8f42-92c1-251c-c512-1f9da7815cde",
+        "aliases": [],
+        "courses": [
+            {
+                "id": "ec901298-d5c8-4f58-5b28-adc38e1ac6ec",
+                "academicYearId": "2025",
+                "routingData": {
+                    "destination": {
+                        "caption": "Undergraduate"
+                    }
+                },
+                "courseTitle": "Integrative Counselling",
+                "applicationCode": "BCX8",
+                "options": [
+                    {
+                        "id": "0b36d226-e874-42c1-ab3b-1654704fdcad",
+                        "studyMode": {
+                            "id": "3",
+                            "mappedCaption": "Full-time",
+                            "caption": "Full-time",
+                            "excludedSchemesForApplication": []
+                        },
+                        "duration": {
+                            "quantity": 3.0,
+                            "durationType": {
+                                "id": "4",
+                                "mappedCaption": null,
+                                "caption": "Years"
+                            }
+                        },
+                        "durationRange": null,
+                        "location": {
+                            "name": "Ardleigh Green"
+                        },
+                        "startDate": {
+                            "date": "15/09/2025",
+                            "nonSpecific": false
+                        },
+                        "outcomeQualification": {
+                            "caption": "Bachelor of Arts (with Honours) - BA (Hons)"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "35a5262d-1432-4188-bbf9-b889e29e4ee3",
+                "academicYearId": "2025",
+                "routingData": {
+                    "destination": {
+                        "caption": "Postgraduate"
+                    }
+                },
+                "courseTitle": "Post Graduate Certificate in Education (PGCE) in Post-Compulsory Education and Training (PCET)",
+                "applicationCode": null,
+                "options": [
+                    {
+                        "id": "50e7597b-1319-4568-af0c-a8dccd6ff9c5",
+                        "studyMode": {
+                            "id": "3",
+                            "mappedCaption": "Full-time",
+                            "caption": "Full-time",
+                            "excludedSchemesForApplication": []
+                        },
+                        "duration": {
+                            "quantity": 1.0,
+                            "durationType": {
+                                "id": "4",
+                                "mappedCaption": null,
+                                "caption": "Years"
+                            }
+                        },
+                        "durationRange": null,
+                        "location": {
+                            "name": "Ardleigh Green"
+                        },
+                        "startDate": {
+                            "date": "15/09/2025",
+                            "nonSpecific": false
+                        },
+                        "outcomeQualification": {
+                            "caption": "Postgraduate Certificate in Education - PGCE"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "23723e06-82d6-4fb9-9358-aea953a2ee3c",
+                "academicYearId": "2025",
+                "routingData": {
+                    "destination": {
+                        "caption": "Undergraduate"
+                    }
+                },
+                "courseTitle": "Sports Science & Tottenham Hotspur Coaching Development Programme",
+                "applicationCode": "SS02",
+                "options": [
+                    {
+                        "id": "76a8c9dd-2c63-430c-9648-48130e926262",
+                        "studyMode": {
+                            "id": "3",
+                            "mappedCaption": "Full-time",
+                            "caption": "Full-time",
+                            "excludedSchemesForApplication": []
+                        },
+                        "duration": {
+                            "quantity": 2.0,
+                            "durationType": {
+                                "id": "4",
+                                "mappedCaption": null,
+                                "caption": "Years"
+                            }
+                        },
+                        "durationRange": null,
+                        "location": {
+                            "name": "Wingletye Lane"
+                        },
+                        "startDate": {
+                            "date": "15/09/2025",
+                            "nonSpecific": false
+                        },
+                        "outcomeQualification": {
+                            "caption": "Higher National Diploma - HND"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "051e70a1-9f5b-4d09-aa58-314fb1de0b1b",
+                "academicYearId": "2025",
+                "routingData": {
+                    "destination": {
+                        "caption": "Undergraduate"
+                    }
+                },
+                "courseTitle": "Sports Science & Tottenham Hotspur Coaching Development Programme",
+                "applicationCode": "SS01",
+                "options": [
+                    {
+                        "id": "a7604142-c588-4bcb-88b0-1c5e1c5cc37a",
+                        "studyMode": {
+                            "id": "3",
+                            "mappedCaption": "Full-time",
+                            "caption": "Full-time",
+                            "excludedSchemesForApplication": []
+                        },
+                        "duration": {
+                            "quantity": 1.0,
+                            "durationType": {
+                                "id": "4",
+                                "mappedCaption": null,
+                                "caption": "Years"
+                            }
+                        },
+                        "durationRange": null,
+                        "location": {
+                            "name": "Wingletye Lane"
+                        },
+                        "startDate": {
+                            "date": "15/09/2025",
+                            "nonSpecific": false
+                        },
+                        "outcomeQualification": {
+                            "caption": "Higher National Certificate - HNC"
+                        }
+                    }
+                ]
+            }
+        ],
+        "aliasName": "New City College (incorporating Havering College)",
+        "backgroundUrl": "https://www.ucas.com/provider-images/files/styles/tiles/9bca8f42-92c1-251c-c512-1f9da7815cde.jpg",
+        "aboutUs": "New City College (NCC) is a large further education (FE) college group with higher education (HE) provision located  across east and outer London at  Hackney, Ardleigh Green ( Havering), Rainham, and Redbridge campuses.   The College’s educational vision centres on creating inspiring teaching and learning opportunities for both traditional and  non-traditional entrants to HE, while celebrating equality and diversity as its core values. NCC offers a diverse range of HE qualifications from  including HNCs, HNDs, foundation degrees, degrees to postgraduate courses.",
+        "whatMakesUsDifferent": "Most NCC HE lecturers are also FE practitioners and, therefore, are nurturing, proficient, and intuitively adaptive in bridging the level three to level four gap, providing a holistic learning experience.  The College also offers deep-seated support for student wellbeing and success.  Furthermore, with smaller class sizes, students receive more tailored tuition and contact time with tutors and peers.",
+        "courseLocations": [
+            {
+                "title": "Wingletye Lane",
+                "address": "Wingletye Ln, Hornchurch, RM11 3TB"
+            },
+            {
+                "title": "Ardleigh Green",
+                "address": "Ardleigh Green Road, Hornchurch, RM11 2LL"
+            }
+        ],
+        "video": null
+    }
+}

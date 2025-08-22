@@ -1,0 +1,63 @@
+{
+  "about_us": "<p>we help students in uk.</p>",
+  "background_image": "https://firebasestorage.googleapis.com/v0/b/worldlynk-97994.appspot.com/o/DxOuOVfbLoSTX2EttB49UFDcC113%2Fworldlynk%2Fbackground?alt=media&token=7bea206a-855e-4717-9f95-4d7c0899d1af",
+  "contact_email": "hello@worldlynk.co.uk",
+  "contact_phone": "08309500754",
+  "course_locations": [
+    {
+      "location_address": "Egham Hill, Egham TW20 0EX",
+      "location_name": "office"
+    }
+  ],
+  "courses": {
+    "Postgraduate": {
+      "Full-time": [],
+      "Part-time": []
+    },
+    "Undergraduate": {
+      "Full-time": [
+        {
+          "course_name": "data science ",
+          "duration": "vf rg",
+          "location": "London, United Kingdom",
+          "qualification": " efd",
+          "study_mode": "rv ",
+          "study_period": "Full-time",
+          "type": "Undergraduate",
+          "ucas_points": "r ",
+          "university": "worldlynk"
+        },
+        {
+          "course_name": "course2",
+          "duration": "fdf",
+          "location": "Hyderabad",
+          "qualification": "course2",
+          "study_mode": "dfd",
+          "study_period": "Full-time",
+          "type": "Undergraduate",
+          "ucas_points": "df",
+          "university": "Anurag University"
+        },
+        {
+          "course_name": "course3",
+          "duration": "dfdf",
+          "location": "Hyderabad",
+          "qualification": "course2",
+          "study_mode": "dfd",
+          "study_period": "Full-time",
+          "type": "Undergraduate",
+          "ucas_points": "df",
+          "university": "Anurag University"
+        }
+      ],
+      "Part-time": []
+    }
+  },
+  "createdAt": "14 March 2025 at 00:22:17 UTC+5:30",
+  "location": "London, UK",
+  "logo_url": "https://firebasestorage.googleapis.com/v0/b/worldlynk-97994.appspot.com/o/DxOuOVfbLoSTX2EttB49UFDcC113%2FRoyal%20Holloway%20University%20Of%20London%2Flogo?alt=media&token=eb1df8df-d370-4d4b-a29e-e2cc873ec0b2",
+  "official_website": "https://www.royalholloway.ac.uk/",
+  "university_name": "Royal Holloway University Of London",
+  "updatedAt": "23 April 2025 at 02:54:35 UTC+5:30",
+  "userId": "DxOuOVfbLoSTX2EttB49UFDcC113"
+}
