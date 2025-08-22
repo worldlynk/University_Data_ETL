@@ -1,0 +1,6 @@
+requests
+firebase-admin
+google-cloud-firestore
+google-api-core
+beautifulsoup4
+playwright
